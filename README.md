@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @forceblogger
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php,mysql,wordpress,css,html,javascript,laravel,node.js,react.js
+- 🌱 I’m currently learning php,mysql,wordpress,css,html,javascript,laravel,node.js,react.js,flutter,dart
 - 💞️ I’m looking to collaborate on wordpress project
 - 📫 How to reach me : via email : forceblogger@gmail.com
 
